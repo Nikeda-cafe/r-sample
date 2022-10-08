@@ -1,6 +1,6 @@
-const Title = () => {
+const Title = (props) => {
     return (
-        <h1>dsds</h1>
+        <h1>気象データ</h1>
     );
 }
 
